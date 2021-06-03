@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The differences in Scotland stil on foot. Or, The late proceedings between the Parliament and Kirk. The committee of estates enjoyning the approbation of, and conformity to what they have done in Parliament. The dehortation of the Kirk, anent the same, with their reasons or causes of days of humiliation; to keep off Gods judgments and a war between the nations.</title>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81461</idno><idno type="EEBO-CITATION">99864361</idno>
+  <idno type="VID">116589</idno>
+  <idno type="EEBO-PROQUEST">2248551243</idno>
+  
+            <idno type="STC">Wing D1419</idno>
+            <idno type="STC">Thomason E453_1</idno>
+            <idno type="STC">ESTC R204913</idno>
+            <idno type="PROQUEST">99864361</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864361e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116589)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The differences in Scotland stil on foot. Or, The late proceedings between the Parliament and Kirk. The committee of estates enjoyning the approbation of, and conformity to what they have done in Parliament. The dehortation of the Kirk, anent the same, with their reasons or causes of days of humiliation; to keep off Gods judgments and a war between the nations.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Leybourn in Monkswel-street neer Creeple-gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116589:1"/>
+            <p>THE DIFFERENCES <hi>IN</hi> SCOTLAND STIL ON FOOT. OR, The late Proceedings between the PARLIAMENT and KIRK.</p>
+            <p>
+               <hi>The Committee of Estates enjoyning the</hi> approbation of, and Conformity to what they have done in Parliament.</p>
+            <p>The dehortation of the <hi>Kirk,</hi> anent the same, with their Reasons or Causes of days of Humiliation; to keep off Gods Judgments and a War between the Nations.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Leybourn</hi> in <hi>Monkswel-</hi>street neer Creeple-gate. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb n="1" facs="tcp:116589:2"/>
+            <head>Acts of Parliament and Committee of <hi>Estates. CONCERNING</hi> The Authority and Lawfulnesse of this <hi>Parliament,</hi> and the obedience to, and observation of the Acts and Constitutions thereof.</head>
+            <div type="Parliamentary_order">
+               <opener>
+                  <dateline>At <hi>Edinburgh,</hi>
+                     <date>12 <hi>Junii</hi> 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>THe Committee of Estates, In pursuance of the trust committed to them by the Parliament, Ordains this Act and Declaration of the Estates of the</hi> 10 Junii <hi>to be Printed and Signed by all Members of Par<g ref="char:EOLhyphen"/>liament, Noblemen, Barons, Burgesses, and all other Subjects and Inha<g ref="char:EOLhyphen"/>bitants of this Kingdom in manner following: And Ordains the Com<g ref="char:EOLhyphen"/>mittees of War, and Magistrates of Burghs, to be carefull to see this Act signed, and an accompt thereof returned, conform to the said Act: where<g ref="char:EOLhyphen"/>of the tenour followeth.</hi>
+               </p>
+            </div>
+            <div type="declaration">
+               <opener>
+                  <dateline>At <hi>Edinburgh</hi>
+                     <date>the <hi>10</hi> of June, <hi>1648.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>He Estates of Parliament now conveened, considering how necessary it is to establish their Union in the preser<g ref="char:EOLhyphen"/>vation and maintenance of the Religion, Laws, and Li<g ref="char:EOLhyphen"/>berties of this Kingdom, and of his Majesties Authority; and to prevent all Factions, Contentions, and Divisions which may arise in prejudice thereof from malicious suggestions, and mis-infor<g ref="char:EOLhyphen"/>mations of their adversaries, Do hereby testifie and declare their Re<g ref="char:EOLhyphen"/>solution and obligation to acknowledge this present Parliament, To
+<pb n="2" facs="tcp:116589:3"/>have been, and to be a free and lawfull Parliament: Like as, They binde and obliege themselves upon their Honours and credit, And as they desire to be, and to be holden true Lovers of their Countrey, and of the Religion, Laws, and Liberties thereof, efauldlie and faithfully to the uttermost of their power, To joyn and concur with their Persons and Estates, every an according to their severall Stati<g ref="char:EOLhyphen"/>ons and callings in the maintenance of the Freedom and Lawfulnesse of this foresaid Parliament: And in the advancement, furtherance, and assistance of the execution, obedience, and observation of the Acts and Constitutions thereof, as the most fit and necessary reme<g ref="char:EOLhyphen"/>dies of the by-gone and present evils and distractions of this Kirk and Kingdom; And for the preservation of Religion, Laws, and Li<g ref="char:EOLhyphen"/>berties thereof, and of his Majesties Authority: And have Ordained, and Ordains this present Act to be subscribed by all the Members of Parliament, present and absent, Noblemen, Barons, and Burgesses; and all other Subjects and Inhabitants of this Kingdom, in their Shires, and Burghs, as they shall be directed by the Commissioners of Parliament left at <hi>Edinburgh,</hi> and to be reported to the Clerk, be<g ref="char:EOLhyphen"/>twixt and the first of <hi>August</hi> next to come: With certification that such as refuse, or postpone, and delay to subscribe the same, shall be holden as Enemies, and opposites to the Common Cause, consisting in the maintenance of the true Reformed Religion, and of the Laws and Liberties of this Kingdom, and his Majesties Authority. Ex<g ref="char:EOLhyphen"/>tracted forth out of the Records of Parliament, by me Sir <hi>Alexander Gibson</hi> of <hi>Durie,</hi> Knight, Clerk of his Highnesse Rolls, Register and Counsail, under my signe and subscription Manuall.</p>
+               <closer>
+                  <signed>
+                     <hi>Alex. Gibson,</hi> Cler. Regist.</signed> We the underscribers do hereby declare. That we acknowledge the Justice of the Act and De<g ref="char:EOLhyphen"/>claration above written, And do hereby obliege our selves to adhere thereunto.</closer>
+            </div>
+            <div type="document">
+               <pb n="3" facs="tcp:116589:3"/>
+               <head>A warning against the subscribing the late Act of <hi>STATE.</hi>
+               </head>
+               <p>WHereas there was an Act and Declaration of the high and Honourable Court of Parliament published in print, and appointed to be signed by all His Majesties Subjects within this Kingdom, and the Committees of Wards, and Magistrates of Burghs, are ordained by the Committee of Estates to be carefull to see the same signed, and to give account thereof. We humbly concei<g ref="char:EOLhyphen"/>ving our selves and our flocks, and all the Minislers and people of God to be neer<g ref="char:EOLhyphen"/>ly concerned in point of conscience, do finde our selves obliged to make known our thoughts there anent to all, and specially to the people of God under our charge.</p>
+               <p>As we do willingly acknowledge the power and authority of Parliament, and do not know any that deny the same. So we earnestly desire it may be confidered as a thing manifest by manifold experience in all ages, that Acts and Constituti<g ref="char:EOLhyphen"/>ons for the matter unlawfull, may issue from these that are in lawfull power and authority, not that the not joyning and covening in obedience to, and furtherarce of the execution of some Acts and Constitutions of Parliament may be consistent with the acknowledgment of the authority and lawfulnesse thereof; and therefore with all dutifull respect to the Parliament. Out of the conscience of our duty to God and his people committed to our charge, for whose souls wee watch, as these that must give an account: and out of the sense of the oath of God, that is upon us. We are constrained in the name of our Lord and Master Jesus Christ, to give faithfull warning to all the flocks over which the holy Ghost hath made us over<g ref="char:EOLhyphen"/>feers to keep themselves free from being ensnared with signing and subscribing the before-mentioned Act and Declaration, and that for the reasons following.</p>
+               <p n="1">1 Because some Acts and Constitutions very neerly concerning Religion and the Covenent, are post in Parliament not only without, but expresly against the advise both of the Committees of the Nationall Assembly intrusted with the publike af<g ref="char:EOLhyphen"/>fairs of the Kirke, and of the most part of the Provinciall Synods, and Presbyte<g ref="char:EOLhyphen"/>ries within the Kingdom, and in particular of the Provinciall Synod of <hi>Bothian,</hi> and of the Presbytery of each, as appeares by the many severall petitions from time to time presented to their Lordships. And we are confident that none will suffer themselves to be taken with the specious generalities of the answer given un<g ref="char:EOLhyphen"/>to
+<pb n="4" facs="tcp:116589:4"/>to Provincials and Presbyteries, as though they had altered the grounds and given all satisfaction: For 1 By Order of Parliament: the Members of the Com<g ref="char:EOLhyphen"/>mittee of Estates give their solemne oathes for their faithfull and diligent dis<g ref="char:EOLhyphen"/>charge of their trust; in pursuance of this present engagement, upon the grounds of the Declaration of the day of <hi>April,</hi> The unsatisfactions thereof is at length laid forth in there representation made thereupon unto the Parliament by the Commission of the generall Assembly, and the Provinciall of <hi>Lothian</hi> also, in their Petition declared themselves unsatisfied therewith. 2 In that answer they declare, that as none shall have place in their Armies, but such as take the Covenant, So they will associate with none, but such as shall engage them<g ref="char:EOLhyphen"/>selves to be faithfull to the ends of the Covenant, which is indeed more plain<g ref="char:EOLhyphen"/>ly to avow and associating with such as refuse to take the Covenant, provi<g ref="char:EOLhyphen"/>ding they ingage themselves to be faithfull to the ends of the Covenant, for which the greatest Malignant will be ready to engage in the generality of the termes, <hi>viz. For the reformation and defence of Religion, the honour and hap<g ref="char:EOLhyphen"/>pinesse of the King, the peace and safetie of the Kingdomes.</hi> Because, not be<g ref="char:EOLhyphen"/>ing under the obedience of the Covenant, they take the liberty of enterpre<g ref="char:EOLhyphen"/>ting these ends according to their owne minde and meaning: and if they meant to be faithfull to the ends of the Covenant, according to the ends of the Co<g ref="char:EOLhyphen"/>venant, and Articles therein conteined, they would as willingly ingage in the Covenant, as engage to be faithfull to the ends thereof.</p>
+               <p n="2">2 We are bound by our Covenant to continue in the obedience of the Do<g ref="char:EOLhyphen"/>ctrine and Discipline of this Kirk, and to defend the same according to our vocation and power, all the dayes of our life, under the paines conteined in the Law, and danger both of body and soule in the day of Gods fearefull judge<g ref="char:EOLhyphen"/>ment, and therefore ought not to oblige our selves by subscription to an al<g ref="char:EOLhyphen"/>lowance and concredance to the execution of any act or acts for protecting such at may be under Kirke censure, impeding the proceedings of Kirke Judicato<g ref="char:EOLhyphen"/>ries, or denying those rights and priviledges which are declared by Acts of for<g ref="char:EOLhyphen"/>mer Parliaments to belong to the Kirke of God within this Kingdome.</p>
+               <p n="3">3 Whereas it is the liberty of Subjects to chuse passive obedience, when in their conscience active obedience to the Law of man were a disobedience to the Law of God. The subscription of this Act doth tye the subscribers not one<g ref="char:EOLhyphen"/>ly to active obedience simply, but also actively to concreed and enforce the same upon others.</p>
+               <p n="4">4 We doe freely professe, that in our judgement these Acts and Constitu<g ref="char:EOLhyphen"/>tions of Parliament are not the most fit and necessary remedies of the present Di<g ref="char:EOLhyphen"/>stractions, and for preservation of Religion. But on the contrary have just grounds of feares, that they will prove dangerous to Religion and tending to the increa<g ref="char:EOLhyphen"/>sing
+<pb n="5" facs="tcp:116589:4"/>of distractions, as is at more length set down in the Commission of the Kirke the representation, and last humble advise and petition to the Parliament, unto neither of which there is any answer returned; Wee doe also humbly conceive, That to satisfie the desires of the Kirke, and that to concurre with <hi>England</hi> in a personall Treaty with his Majestie, upon the Propositions agreed upon by both Kingdomes, and presented to his Majestie at <hi>Hampion Court,</hi> and <hi>New-castle</hi> had been more fit remedies, and that a Warre between brethren after a Covenant for perpetuall peace and union, is neither a lawfull nor ne<g ref="char:EOLhyphen"/>cessary remedy, unlesse all amicable wayes by Treaties had been first tryed, and the lawfulnesse and necessity of the engagement first cleared, as was promised in the Declaration 26. <hi>April.</hi>
+               </p>
+               <p n="5">5 Albeit one were perswaded that these Acts and Constitutions of Par<g ref="char:EOLhyphen"/>liament were fit remedies of the present distractions, and for preservation of Religion, at least were not perswaded of the unfitnesse, and thereupon were resolved to goe on and give externall obedience, yet hee should be loath to overthrow his judgement, by subscribing these to be most fit which he know<g ref="char:EOLhyphen"/>eth, and may easily conceive, that other remedies as fit or more<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in all or many particulars and might have been condiscended upon.</p>
+               <p n="6">6 The Acts and Constitutions of this Parliament are not all made known and none ought to binde himselfe by subscripton, to blind obedience of Acts which he hath not seene, and the blindnesse of this subscribed obedience doth yet further appeare by that Act of Parliament which giveth power unto the Committee of Estates, unto <hi>March</hi> 1650. and requireth obedience to the Acts and Constitutions, which what they may be, whether obstructive to the worke of Reformation in <hi>England,</hi> whether destructive to the persons and meanes of the well-affected within the Kingdomes, to the Liberty and free<g ref="char:EOLhyphen"/>dome of the Subjects, specially in point of Electing Commissioners for Par<g ref="char:EOLhyphen"/>liament here, and to the riches and priviledges of the Kirke, and how far <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> onely knoweth, who knoweth all things, and in whose books are all things writ<g ref="char:EOLhyphen"/>ten, which in time have their manifestation.</p>
+               <p n="7">7 The subscription as it seemes: to prelimit the succeeding Session of Par<g ref="char:EOLhyphen"/>liament, in their tryall of the procedings of our Committee of Estates; so it is a plaine prelimitatiom of the ensuing Nationall Assembly in the judgement con<g ref="char:EOLhyphen"/>cerning the proceedings of the Commission of the Kirke, and concerning the grounds and manner of this present engagement, in as farre as Religion and the Covenant are deeply and intimately concerned, and therefore heavily pre<g ref="char:EOLhyphen"/>judgeth the freedome of the debares, reasonings, votes, and resolutions thereof in matters of greatest moment.</p>
+               <p n="8">8 The Subscribers acknowledging the justice of the Acts and declaration doe
+<pb n="6" facs="tcp:116589:5"/>ascribe unto the Parliament a power of declaring these to be enemies of the true reformed Religion, whom the Kirke judicatures have not declared to be such, and doe moreover acknowledge that, that heavy charge of being enemies to Religion is justly laid upon all those who refuse to subscribe (as we are confident all the Ministers and good people of the Kingdom will do) or to go on in this present engagement, notwithstanding that the Commission of the Provinciall Assemby, and the most part of the Provinciall Synods and Presbyters have pro<g ref="char:EOLhyphen"/>fessed themselves unsatisfied with the grounds thereof.</p>
+               <p n="9">9. It is to be remembred, that the Parliament 1584, which re-introduced Bishops, and condemned the Assemblies of the Kirke, contrary to the Nationall Covenant, sworn and subscribed 1581; did presse subscriptions unto, and approba<g ref="char:EOLhyphen"/>tion of the Acts, and that many who had subscribed were so wakened in their con<g ref="char:EOLhyphen"/>sciences for that offence, that they could have no peace in their minds, untill they acknowledged that hainous sinne before God and the Kirke, which as it deterred others at that time, so it ought to be a waining to all at this time, to be<g ref="char:EOLhyphen"/>ware of doing that, for eschewing outward trouble, which will undoubredly breed them inward trouble of conscience when their eyes are opened to see the evils they are accessary to, by subscribing their approbation of the justnesse of Acts and Constitutions of Parliament, and also by consequence of the Acts and Constitutions of the Committee of Estates.</p>
+               <p>The pretence of a President from the Parliament 1640, wherein it is alleaged, that the like Act and Declaration was enacted, and enjoyned (besides that it was never pressed in Shiers and Boroughes) is easily taken off, by comparing the two together.</p>
+               <p n="1">1 That was occasioned by the Kings Commissioners his leaving the Parlia<g ref="char:EOLhyphen"/>ment, and the Kings declaring of the Parliament to be Traitors, and sending Armies both from <hi>England</hi> and <hi>Ireland</hi> to destroy them as Trai<g ref="char:EOLhyphen"/>tors, for the sitting in Parliament, and by the Malignant party, their deny<g ref="char:EOLhyphen"/>ing the antiquity and lawfulnesse of the Parliament it selfe, but now the anti<g ref="char:EOLhyphen"/>quity and lawfulnesse of the Parliament is not questioned by any.</p>
+               <p n="2">2 Then we were by all weanes seeking peace, and out Commissioners sent for that effect, imprisoned, then the Church and State were united in the Cause, in opposition to the Malignant Party; then the Parliament declared that they did nothing but enact the civill ratification of the Act, and grant the desires of the Kirke, and what was consequentiall thereunto, and necessary for self de<g ref="char:EOLhyphen"/>fence in maintenance thereof against strangers invading us, wherein all the <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ges by the Law of Nature, Nations, and of this Kingdome, are bound to concurre: But now Treaties abroad are declared, the desires of the Kirke at home not granted, yea, there are proceedings against the unanimous Declara<g ref="char:EOLhyphen"/>tions
+<pb n="7" facs="tcp:116589:5"/>of the Kirke, and associating with Malignants.</p>
+               <p n="3">3 Then it was acknowledged (as appeares by the narrative of the Act) that all questions anent matters of Religion were onely determinable by the Assemblies of the Kirke, now matters which neerly concerne Religion, and the Covenant are determined without, and against the advice of the Kirke.</p>
+               <p>Having thus briefely represented our reasons against the subscription of the above specified Act and Declaration, we doe in the feare of the Lord desire all the people of God under our charge, seriously to consider and ponder them in the ballance of judgement, dispossessed of prejudices, and as the servants of the living God doe exhort them earnestly to preserve themselves from the tentations of the time, to avoid this evill snare, and to endure as those that be<g ref="char:EOLhyphen"/>held the invisible, not affraid of the wrath of man, but being assured that it is farre better to suffer affliction with the people of God, then to enjoy the plea<g ref="char:EOLhyphen"/>sures of sinne here for a season; and that it will be no griefe of heart in the day of reviving, that they have kept their hearts and hands cleane of the corrup<g ref="char:EOLhyphen"/>tions of the times, if it shall be any (which God forbid) that will not take warning, but walke on in the counsell of their own heart, and doe that which seemeth good in their owne eyes, as we shall mourne for them, and pray that they may repent, and this their iniquity may be forgiven, so we shall have this witnesse within entire, have delivered our owne soules from accession to that guiltinesse, by giving them free and common warning.</p>
+               <closer>
+                  <signed>
+                     <hi>Subscribed by Master</hi> ALEXANDER CAR.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="8" facs="tcp:116589:6"/>
+               <head>Causes of a solemne Humiliation and Fast, to be kept on the last <hi>Thursday</hi> of <hi>June,</hi> and first Sabaoth of <hi>July,</hi> 1648.</head>
+               <p n="1">1 WE are to Mourne for all the sinnes and provocations mentioned in the causes of our former humiliations, which doe continue and abound notwithstanding of all our obligations to reforme our wayes, And many for<g ref="char:EOLhyphen"/>mer solemne professions of repentance, and withall the sharp rod wherewith God hath corrected us, and heavy judgement wherewith he now threatens us.</p>
+               <p n="2">2 We are in a speciall way to be humbled for the countenance that hath been given, and compliance that hath been made by too many with malignants, and per<g ref="char:EOLhyphen"/>sons dis-affected to the Worke of Reformation, which in the just judgement of God hath at last put such power and strength in their hands, as is terrible to the people of God, and threatens his work with ruine.</p>
+               <p n="3">3 We are to bewaile the small proficiencie under the reading of the Gospell of many, the great contempt thereof in others, and the great obstinacie and hard<g ref="char:EOLhyphen"/>nesse of heart in some, not onely unto the despising and reproaching of the Mini<g ref="char:EOLhyphen"/>strie, but unto the rejecting the most powerfull Word of Exhortation in the mouth of his servants.</p>
+               <p n="4">4 We are to be humbled for the grievous back sliding that is amongst us, which hath prevailed to the undertaking of an unlawfull engagement in Warre, notwithstanding the many Petitions from Boroughs and Shieres, Presbyteries, and Synods, to the contrary; which undertakings, besides many sad effects a<g ref="char:EOLhyphen"/>mongst our selves is like to rend in sunder the union betwixt the Kingdomes and not onely obstruct the worke of Vniformitie, but overturne the foundation al<g ref="char:EOLhyphen"/>ready laid.</p>
+               <p n="5">5 We are to lament before the Lord, the oppression of his people in many pla<g ref="char:EOLhyphen"/>ces of this Kingdome, unto the spoiling of their goods, offering violence to their persons, and forcing of their consciences, and by causing them either to endure great affliction, or to sinne against GOD, by being accessarie to a sinfull curse.</p>
+               <p n="6">
+                  <pb n="9" facs="tcp:116589:6"/> 6 We are deeply to be humbled, that the Parliament being now risen, they have been so farre from satisfying any of the just and necessary desires of the Kirke, or harkning unto the petitions presented to them, That they have enjoyned obedience to all their Orders upon the grounds of their Declaration published in <hi>April.</hi>
+               </p>
+               <p n="7">7 We are to entreat the Lord in behalfe of our King, that he may be convin<g ref="char:EOLhyphen"/>ced and repent of the evill of his former wayes, and be enclined unto the love and approbation of the worke of God, And in the behalfe of those that have the power of the Kingdome in their hand, that they may desist from every sinfull course, and satisfie the just and necessary desires of the Kirke, and the consciences of the well-affected in the Land, by securing of Religion, and preserving union between the Kingdomes; And Monarchicall government in the Person of the King and of his Posterity.</p>
+               <p n="8">8 As we are to beg of God that all the purposes both of the Sectaries, and of the Popish, Prelaticall, and Malignant Party in all the three Kingdoms, a<g ref="char:EOLhyphen"/>gainst the truth and worke of God, may be disappointed, and their power crushed, so also that the Lord would strengthen his people in all these Dominions to ad<g ref="char:EOLhyphen"/>here without shrinking, or fainting, unto the Cause of God, and to beare a faith<g ref="char:EOLhyphen"/>full testimony thereof in the day of tentation.</p>
+               <p n="9">9 Lastly, we are to pray for a blessing upon the ensuing Generall Assembly, that they may meet in peace and love, and being furnished with the Spirit of uni<g ref="char:EOLhyphen"/>tie, faithfulnesse, wisdome and zeale, they may so carry themselves in every thing, as that the hopes and designes of dis-affected men may be dis appointed, truth may be preserved, holinesse promoted among our selves, and the worke of unifor<g ref="char:EOLhyphen"/>mity advanced amongst our Neighbours.</p>
+               <closer>
+                  <signed>A. Car.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>Gilbert Mabbot.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
